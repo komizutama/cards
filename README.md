@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+**Cards exercise from Stephen Grider's elixir course**
 
 ## Installation
 
