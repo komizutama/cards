@@ -29,7 +29,7 @@ defmodule Cards.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:ex_doc, "~> 0.12"} $#~> this gets more recent versions if present ex doc installs documentation
+      {:ex_doc, "~> 0.12"} #~> this gets more recent versions if present ex doc installs documentation
     ]
   end
 end
